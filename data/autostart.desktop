@@ -1,0 +1,6 @@
+[Desktop Entry]
+Type=Application
+Name=Monitor Control
+Exec=monitor-control --background
+Terminal=false
+X-GNOME-Autostart-enabled=true

@@ -1,0 +1,2 @@
+# Grant the active local user access only to display-controller I2C devices.
+SUBSYSTEM=="i2c-dev", KERNEL=="i2c-[0-9]*", ATTRS{class}=="0x03*", TAG+="uaccess"

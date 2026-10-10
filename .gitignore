@@ -1,0 +1,13 @@
+/target/
+/.build-deps/
+/dist/
+
+# Local tooling, credentials, and editor files
+/.agents/
+/.codex/
+/.aws/
+.env
+.env.*
+!.env.example
+*.swp
+*~

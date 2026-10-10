@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Name=Monitor Control
+Comment=Adjust external monitor brightness
+Exec=monitor-control
+Icon=display-brightness-symbolic
+Terminal=false
+Categories=Settings;HardwareSettings;
+StartupNotify=true
+DBusActivatable=false
